@@ -1,0 +1,15 @@
+{
+  "version": "2015.11.28.82",
+  "name": "📕Photo",
+  "description": "Affinity Photoで行こう！",
+
+  "icons": [
+    {
+      "src":  "apple-touch-icon.png",
+      "sizes":  "192x192",
+      "type":  "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "manifest_version": 2
+}

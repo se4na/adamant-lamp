@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ベクター on Affinity Photoで行こう！</title>
+    <link>https://affinity-photo.xn--cks.net/tags/%E3%83%99%E3%82%AF%E3%82%BF%E3%83%BC/</link>
+    <description>Recent content in ベクター on Affinity Photoで行こう！</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>&amp;copy;2015 affinity-photo.堂.net</copyright>
+    <lastBuildDate>Sat, 28 Nov 2015 09:07:54 +0800</lastBuildDate>
+    <atom:link href="https://affinity-photo.xn--cks.net/tags/%E3%83%99%E3%82%AF%E3%82%BF%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    
+    <item>
+      <title>ベクター要素を使った建築物のレタッチ</title>
+      <link>https://affinity-photo.xn--cks.net/start-to-finish-vector-architecture/</link>
+      <pubDate>Sat, 28 Nov 2015 09:07:54 +0800</pubDate>
+      
+      <guid>https://affinity-photo.xn--cks.net/start-to-finish-vector-architecture/</guid>
+      <description>&lt;p&gt;ベクターベースの要素を追加する手法により、建築物の写真をレタッチする作業の一部始終をご覧ください。&lt;/p&gt;
+
+&lt;iframe allowfullscreen frameborder=&#39;0&#39; height=&#39;376&#39; id=&#39;vimeoplayer&#39; mozallowfullscreen webkitallowfullscreen width=&#39;100%&#39;&gt;&lt;/iframe&gt;
+
+
+
+&lt;script&gt;
+  (function() {
+    &#39;use strict&#39;;
+    var $iframes, $target;
+  
+    $iframes = document.querySelectorAll(&#39;iframe&#39;);
+  
+    $target = $iframes[$iframes.length - 1];
+  
+    $target.setAttribute(&#39;height&#39;, $target.clientWidth * 376 / 670);
+  
+    setTimeout(function() {
+      $target.setAttribute(&#39;src&#39;, &#39;//player.vimeo.com/video/143014223?title=0&amp;byline=0&amp;portrait=0&#39;);
+  
+      
+
+
+    }, 5000);
+  
+    return;
+  
+  }).call(this);
+&lt;/script&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/143014223&#34;&gt;https://vimeo.com/143014223&lt;/a&gt;&lt;br /&gt;
+Start to Finish - Vector Architecture&lt;br /&gt;
+Watch a start to finish video where we add vector-based retouching to an architectural photograph.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

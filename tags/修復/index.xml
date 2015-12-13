@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>修復 on Affinity Photoで行こう！</title>
+    <link>https://affinity-photo.xn--cks.net/tags/%E4%BF%AE%E5%BE%A9/</link>
+    <description>Recent content in 修復 on Affinity Photoで行こう！</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>&amp;copy;2015 affinity-photo.堂.net</copyright>
+    <lastBuildDate>Sun, 13 Dec 2015 10:31:19 +0800</lastBuildDate>
+    <atom:link href="https://affinity-photo.xn--cks.net/tags/%E4%BF%AE%E5%BE%A9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    
+    <item>
+      <title>Affinity Photoデモ-スキーヤー</title>
+      <link>https://affinity-photo.xn--cks.net/skier-portrait/</link>
+      <pubDate>Sun, 13 Dec 2015 10:31:19 +0800</pubDate>
+      
+      <guid>https://affinity-photo.xn--cks.net/skier-portrait/</guid>
+      <description>&lt;p&gt;スキーヤーのセルフポートレート写真をレタッチします。
+ゴーグルのガラスに反射して写り込んだオブジェクトを除去します。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/y34J5P8sSAUuRft9bN8LGZYpM_aB6z_wbuUvygGGRC_nDYDtSNs6yEk_sEWiiWZQ1xpCIboCcWpd=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;こちらが今回の題材となる写真です。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/f1VBgYK2rZQhZ-Eve5-MQkjDfWEPuwaZLBMmb0cQW1SQGCBb7Rtkr3S-x6fOXfzuGvPTSUJQ0P32=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;ゴーグルのガラス越しに、被写体の腕とカメラ、さらに背後には他のスキーヤーが写り込んでいます。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/QT4G3oMg8OU9x2mxfiFo7wTnOHu034kAxZzJtkzA3o85_rjcPyoD03SwbqUQ4e7k4eIA8xIamiqE=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;「インペインティングブラシツール」で消去したい部分を選択していきます。
+大きな範囲を一度に消去しようとするのではなく、小さい範囲を丁寧に選択して、繰り返していくのが失敗が少ないです。
+思ったように修正されない時は、修正範囲を小さくしてみたり選択の仕方を変えてみたりしてみます。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/qXX1it8RqxP_DBD3G1b9PNjB9qvgCf4lFa5y-ElDS0cRg9HiX9Hv8Q6-q_-jcHdcXKrRoD15xTbi=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;ゴーグルのガラスに写り込んでいるオブジェクトの消去が終わりました。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/gAitIoQE04O8IwYK04CSxgvKaIgcvQr0p-lSY-tx_-rWZtFedsK0go2SiS59qP6WOlGrtspHHEuX=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;次に、被写体の鼻頭にある毛穴を目立たなくします。
+そのまま、「インペインティングブラシツール」で毛穴を消去していくこともできますが、より自然な肌の質感になるように「周波数分離」機能を利用します。
+「フィルタ」から「周波数分離」を選択します。
+「半径」パラメーターを調整して、「高周波数」（グレーになっている左側）のレイヤに毛穴の影が映るようにし、「適用」をクリックします。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/BomyuPAlAYCBYfUNp9UIm_vILeDZbq9AUZHFnIDQ8OQ4Q-a4JHO28D15iPlo-jZBDt8s6j2lEhbz=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;一旦「低周波数」レイヤを非表示にし、「高周波数」レイヤを選択して「インペインティングブラシツール」で毛穴を消去していきます。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/v3BjswBJalxXz7m3YXjxvCMlCFaOQ0_V3pSZHnnR58JeuavXCsWGMANqfLdm7HIUQc5rzCTq4uoQ=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;「高周波数」レイヤと「低周波数」レイヤを表示したところです。
+左半分は毛穴を除去済みです。
+肌の質感は残したままに、毛穴が目立たなくなっていることがわかります。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/ns78E61qBM8xFuQd0FoQsLRmCxLI0CAZiN2nyBt3cWLtqfnKMnB1aX92yftQ6qF0cw6aavoNP-0a=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;一旦「高周波数」レイヤを非表示にして「低周波数」レイヤをチェックします。
+大きなシミになっているところが2カ所あります。
+この部分を「インペインティングブラシツール」で消去します。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/DXk8X5_TR42vdbYNJY61GaXsze_Jm3DvIEAdV2Z4IV9c09voqPLsCzAPOnuPGe-SB6A9wc276tMD=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;素肌の修正が終わりました。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/ZJIm9rSmT0xXUcNnS8eXSZCJuyhFXHK-YWhR7ZsN1ukgs0D0zCBk3CqD4sHPTX9j9xhV-31WN7SH=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;「高周波数」レイヤと「低周波数」レイヤを選択してグループ化し、扱いやすいようにまとめておきます。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/OeNDdf7lbh9cfpcwjW0MpgAIQNIIN_dwQZGDzGFPPZT5bZB_2hNyK8dBOhhYRFn2rhDZeir-erLT=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;次に、ゴーグルの写り込みのエリアを調整します。
+「選択ブラシツール」を選択し、ゴーグルの部分をなぞります。
+モードの「追加」/「除外」と「エッジにスナップ」のチェックをON/OFFしたりして、うまく選択範囲を調整します。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/09FC4Qjlwnseml114cqIDzLmr6ZgCLw7lO-87H-aJnzfTlqjzvGBpRSvfItI4XnTwUDU356qOzWE=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;ゴーグルの写り込みのエリアを選択できたら「調整」をクリックします。
+出力に「新規レイヤ」を選択して「適用」をクリックし、選択しているゴーグルの写り込み部分を新しいレイヤとして書き出します。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/RPYx91yJe1dK4GKoigJdphDR8T_xFxh9H2AZRI_kE7zEeqal6GjRwnVyIIa0AvPU3P3LsgeNMWbu=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;新しく書き出した、ゴーグルの写り込み部分のレイヤのみを表示したところです。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/fLRhfUJ5eiDbUNxRLklFZPX4c_5rF04JO30_m79RFguwLrnRHpjRKctnt7oRZLCtBbEpPox4YXiJ=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;次に、ゴーグルの写り込み部分の彩度を落とし、写り込みの主張を抑えます。
+「調整」の「自然な彩度」を選択します。
+「自然な彩度」パラメーターを「-100%」に設定しグレースケールに近くしました。&lt;/p&gt;
+
+&lt;p&gt;ゴーグルの写り込み部分へのフォーカスの当たり具合が強いため、ここではさらに「レンズブラー」をかけてぼかします。
+ブラーフィルタは周辺部分までフィルタの描画エリアが広がってしまうので、ゴーグルと同じ選択範囲のマスクを作成し、はみ出しを抑制します。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/GBcaH1G7w8v4xmopsncT9TXsO1YLF-DXydC3XNAaF8bbzQfn8qIIPr2gBB6F5faEwU-QwmFWJf9l=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;次に、スノーウェアを修正します。
+ゴーグルの写り込みを選択した要領で、今度はスノーウェアのレイヤを作成します。
+素肌の部分は除外します。
+ゴーグルの写り込みレイヤよりも下の部分になる、ゴーグルの部分は選択範囲に含まれていても構いません。
+「フィルタ」の「かすみの除去」を選択し、パラメーターを調整してスノーウェアの黒が際立つようにします。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/jPCanumL47NleI2qtnH70tuQ5XfMkGr7Dss72zr8oZU9tGG87o4hAFxX06gB3uWwd2VBrInMZuLl=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;仕上げに「調整」の「カーブ」を選択し、全体の色彩を調整します。&lt;/p&gt;
+
+&lt;p&gt;若干の不安定さを感じるため、ここではさらにゴーグルに水平を合わせました。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/VsY6Xd2S3uK6TkIoalA7iUCYK8NwHpWlyQBe1JsPJWbdQ40mwQjOqKjyTx8tBD3uLRN9He1ua2YN=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;エクスポートして完成です。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/y34J5P8sSAUuRft9bN8LGZYpM_aB6z_wbuUvygGGRC_nDYDtSNs6yEk_sEWiiWZQ1xpCIboCcWpd=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;こちらが元画像です。
+違いを比べてみてください。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://picjumbo.com/skier-portrait/&#34;&gt;Photo&lt;/a&gt; by Viktor Hanacek / free / Modified&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Affinity Photoデモ-アンティーク写真</title>
+      <link>https://affinity-photo.xn--cks.net/man-and-woman-in-vehicle-passing-102-103-grafton-street/</link>
+      <pubDate>Sat, 12 Dec 2015 19:33:56 +0800</pubDate>
+      
+      <guid>https://affinity-photo.xn--cks.net/man-and-woman-in-vehicle-passing-102-103-grafton-street/</guid>
+      <description>&lt;p&gt;フィルム汚れが入り込んだアンティーク写真をレタッチします。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/MWKX-VXlkBVYVzuhOcFq790jVwWHYuw1ssNPz4HFKEz-okI1AsLq4_oh8K8eRimbIHxIQ_J8O8HK=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;こちらが今回の題材となる写真です。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/KCiL7ZpZffn1G-SUYPnKPegsogyAVoleW-eMyChKVx-20KGSLNdreqMRbFEP1PBc_zYIB5Vqhhnj=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;大きなフィルムの傷や汚れが目立つ写真です。
+「インペインティングブラシツール」で除去していきます。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/uAX2N7r4ZdGlhSf6vU93iozDBSInKne1pwof6yj2j2z50rEWbWhIOc9HOTrNXbx5PtMDhz9dakqF=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;ブラシのサイズを除去したい部分より少し大きくなるように調整します。
+ブラシのカーソルを除去したい部分に合わせクリックします。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/kjAixnQ-RF8wxj3yHjYXtTSlvWS3QTcOxPn-vfvCXY_Zs3kV9D0Z7jK57xGAwNclNRGLiIen1fDV=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;全体的に満遍なくチェックし、汚れを除去しました。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/kXe-Q11OgqwXR2WhrnWnUBROBh1aHTA9E7d_LNSR9BBBQ5glXUiMjfIWetG77LRyXWFEev7ME7uz=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;拡大するとブロックノイズのように四角い模様になってしまっている部分があります。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/Ofxv_S8QlI-motLGpzH7BlfOAGklUPSLW6MMl-s-B4J5ucZ9berjNaUrHXlM4Iyh7dB8TAleZJUB=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;四角い模様が目立たないようなじませるために、ノイズを追加します。
+「現像ペルソナ」を選択し「ディテール」タブを選択して「ノイズ追加」をチェックします。
+「ガウス」ノイズにチェックが入っていることを確認し、強度を調整します。
+調整が済んだら「現像」をクリックして「写真ペルソナ」に戻ります。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/n64ZJ3a4KkOB-ivhDvvyX6KuOn2XjAqKxvkHl9lVG-pCR2DxELW1yrcNRtXGjAIPPb6IXe6Oapn0=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;背景の建物のぼやけを調整します。
+「フィルタ」の「かすみの除去」を選択します。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/GTsah3N2YzrRXkVyYrWwqIasDoZMfhC752KvpuDD4CjpbosBzp7yKkGyVtP1JROwLnChRWWREE_l=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;背景がくっきりとなるようにパラメタを調整します。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/PBruClQhAiiBoOD8Aqa5AtbGHANdZwSexP_g4pyq0gEgQBi3dSTLnSwngR01jimyQ_BXlsWlWR9a=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;おそらく馬車の揺れによる人物のぶれを調整します。
+「フィルタ」の「シャープ化」から「明瞭度」を選択します。
+「半径」パラメタを調整します。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/SewSxJPuphJYOYU_Q_wdUEO7YqwF3iEJIZ_7KXzpkr8rrm3yPylsDEn6N990rVS9yYz7bIvRIiJ2=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;「エクスポート」して完成です。
+続いておまけに「ライティング」を追加してみます。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/u9vM6gjXQnNga3tf9iLktu_nh0lbPaebz1AM06NjODSVtt4HTRv1rUM6j6Ofx8mxERFHDVPdOygf=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;「フィルタ」の「照明」を選択します。
+斜め上から街灯が照らすイメージで照明オブジェクトを配置します。。
+照明オブジェクトのハンドルを調整して、ライティングを調整します。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/mngzA3ugbOEn-gToktj4b04GZ-RQAIdnnIcPvq8L8AnO7elDgeTqVDM2NPv_NXb0HRRPYEEMZjy_=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;「調整」の「カーブ」を選択し、調整します。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/xc17c89u6Vq1T-FsKO5B0IAF7_e92zEVrQLJ_GxhkIJ9aexoIsA-i98Qk8o_8OSzNXPt2nG528WO=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/nlireland/22703739760&#34;&gt;Photo&lt;/a&gt; by National Library of Ireland on The Commons / &lt;a href=&#34;http://www.nli.ie/en/flickr-commons.aspx&#34;&gt;Flickr Commons&lt;/a&gt; / Modified&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Affinity Photoデモ-店舗ロゴ</title>
+      <link>https://affinity-photo.xn--cks.net/la-derniere-piece/</link>
+      <pubDate>Sat, 12 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://affinity-photo.xn--cks.net/la-derniere-piece/</guid>
+      <description>&lt;p&gt;店舗のロゴを撮影した写真のパースを整え、ロゴオブジェクトと壁の色彩と露光を調整します。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/M7QzyHuhI5WTx9N4mp6hgjPCVp2Hvj7X-UP1hOmBS9YdXS95WYhrxi6PwSA9y-wTf_jTqDsqq4Vi=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;こちらが今回の題材となる写真です。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/b_JT7C2IV6NXIBSA_fyaMBy3m8kE4elcxRX8sS197iEBhBi5vC0zXqJzyFPEez2zfgZvz-LCw9FP=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+トタン素材に反射する光でロゴの輪郭がわかりにくくなっています。
+斜め下から撮影していることによる歪みも修正していきます。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/7CN2tM9FzNh4vKtSlZCxBdvDkA2pYNoSD0DgxSDFKbWeYkRMObWsSFgaNyS7jSNG8dRJNT_vfw-2=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+まず「グリッドを表示」して、ベースとなる水平線と垂直線を確認できるようにします。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/n2nTgMPGLGK5qHTeQUjYeyAE4gGBxVFvm6X-q3PdToiZMHt-B3SCBgAGQUElqr17cMschrvRpOiv=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+「パースペクティブツール」を選択して、画像の四角をつまんで移動させます。トタン素材の垂直をグリッド線の垂直線に合わせます。トタン素材を打ち付けているビョウの水平とロゴタイプの水平をグリッド線の水平線にそれぞれ合わせます。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/vtNb-8kRKj1Ai1zOPTscBd0JH8g8GdEfZPwsW-bGhMPs9iiogUBWOPs8fIyA1h9ILZa-ayol7URj=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+「インペインティングブラシツール」でトタン素材を打ち付けているビョウを除去します。
+トタン素材の汚れも除去していきます。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/owPRgFTndU-JxYAgKUA0ghsZNzOm357oKbcOD3EJWJ9QULtKXinRXbN_Wzj2l0ecKLJ5LSmRO_iZ=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+パースを調整したことにより、右上部分が欠損した状態になりますので、この部分を埋める修正を加えます。
+「傷除去ツール」を選択し、ブラシのサイズを大きめの320pxに設定します。
+空白の部分をブラシでクリックしてから真下へドラッグしてゆき、違和感のない位置までブラシを移動します。
+写真右上の欠損部分が埋まるまで、これを数回繰り返します。
+修正部分と元の写真の継ぎ目が目立ちますので、「インペインティングブラシツール」でなぞり、目立つ継ぎ目を修正します。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/ldae2ql0-Ls6HiNdzYh4Le_41js3UtJMhhc1mBdJPz6-ALXSyZg6FEGRLAgnPmCa8HC0LheR9ay8=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+「選択ブラシツール」でロゴタイプを選択します。
+ブラシのサイズを小さめに設定して、ロゴタイプをなぞります。
+選択範囲が広すぎたら、モードの「除外」を選択し、選択範囲から除期待部分を選択します。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/o0OaBlRsvK6jzxISvpJAHwYxs33kFZnPEiOJDydsC0lJ-qcGi496JzNMlzV1cMVPusgZad0IVdAe=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+ロゴタイプ部分をすべて選択したら、新しい「ピクセルレイヤ」を追加し、コピーペーストします。
+追加する新しい「ピクセルレイヤ」は、元の写真レイヤの上になるように配置します。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/vP7OyGcpsjIOZc3aVjUjTcY2KMNNbD1AkEkXMVPUXZM9N87mJnXSNGHvJVWvQFSTDNUu9SL1qxtt=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+一旦、ロゴタイプのレイヤを非表示にします。
+元の写真レイヤを選択し、「調整＞カーブ」を選択します。
+ここでは、トタン素材のコントラストが下がるように調整します。
+カーブ調整のレイヤは、ロゴタイプのレイヤよりも下になるように配置します。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/SqCA8LYjao9x6d30VLLEkmUYYJYY8JhpDIlJ0iRp_xLwiQqpOYcFQnYV0kUUk9AaJMv6HrPAVPdk=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+次に、ロゴタイプのレイヤを表示して選択します。
+ロゴタイプのレイヤを選択し、「調整＞カーブ」を選択します。
+ロゴタイプの色彩が鮮やかになるように調整します。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/kQgtk1-ijHr2GtgebzRZphwKcokEfPCxxh1WQdzqX88_qHTv_g4756e5FEaB1K8Q2a5qVYEvfOGf=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+「ペルソナをエクスポート」を選択します。
+「スライスツール」を選択し、ロゴタイプを囲みます。
+ロゴタイプが矩型内に納まるように調整します。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/2yEIwtPsJhisuFGAHoLxuBb3_SXG0E5x9UopP17upOc0PvS7-m2L3r6CkTlL3_uZoRV5tgB2e-ax=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+「エクスポート」をクリックしたら、完成です。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.lucnix.be/v/Corporate/Restaurants/La-derniere-piece/22-La-derniere-+piece.jpg.html&#34;&gt;Photo&lt;/a&gt; by Luc Viatour / &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/2.0/&#34;&gt;CC BY-SA&lt;/a&gt; / Modified&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Affinity Photoデモ-人物消去</title>
+      <link>https://affinity-photo.xn--cks.net/inpainting-1/</link>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://affinity-photo.xn--cks.net/inpainting-1/</guid>
+      <description>&lt;p&gt;ブランコで遊ぶ子供たちの写真をレタッチします。
+より印象的になるように中心にしたい人物にフォーカスするように修正を加えます。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/5OJ5qH8e9cFCJlBp6PGBpfdzo9la4z4yJoNgStTC_Jx4PatzEnOni4yh9IQuq-hpdDlx4j2RqKBe=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;こちらが今回の題材となる写真です。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/QCxn7A6ojATn6dINPJ5f7tKLZvfKBMenO2eryQ_A9STK18tRv6ANF_79f5V5-1MZYmtdG9uBq-A=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;子供2人がブランコで遊んでいる様子です。
+女の子の方はかなり高いポジションまで、揺れていますね。
+ひっくり返らないか、ハラハラしてしまいます。
+今回は、この女の子にフォーカスしてみましょう。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/YFzZxv-zLkzKVTaaY2N6jRwuGwn7lA-Qeo3lhj9lI-W43wBvzU2lT2zWbqptlYEn5ZCMKokBx4I=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;オレンジ色のちょっと目立つ色合いの服をきている男の子。
+ちょっと申し訳ない気もしますが、今回はこの男の子の映り込みを「インペインティングブラシツール」で修正します。
+あまり大きくハミ出さないように、男の子の部分を選択していきます。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/YWXyxmXOqrGDqPEFxiQ1pjmDy0pRS1kZCj09Jph2g8gvTfDCxBfgq-FLddeRq1k2mLonzKCacVY=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;はい、おおよそ消去することができました。
+細かい部分は、さらに「インペインティングブラシツール」で修正します。
+背景に違和感が残る場合は、「傷除去ツール」で似たような背景色を貼り付けます。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/P1ura0NcCuSMqA5ntS7ICLB7XsLwEyLSNmyBODjnoURvopTdDCU3Pgd86enuTs6WyN0U0xxzSFE=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;男の子が乗っていたブランコにつながるクサリも同様に修正します。
+全体的にキレイに修正することができました。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/xfXONXWr6aC_-iEgLYDolquK-cyIO6pp4-IBQ0LmlSXBnQiQuODj2uDwymTAtfFEZPCPEggM6cU=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;さらに、背景に写り込んでいる建物の一部を消去しました。
+仕上げに、背景に「モーションぼかし」フィルタをかけてみました。
+躍動感が増したと思います。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/lorenkerns/8645901176/&#34;&gt;Photo&lt;/a&gt; by Loren Kerns / &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/&#34;&gt;CC BY&lt;/a&gt; / Modified&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>建築物の外壁に写り込んだ不要なオブジェクトを綺麗に消去する方法</title>
+      <link>https://affinity-photo.xn--cks.net/architectural-image-inpainting-1/</link>
+      <pubDate>Sun, 29 Nov 2015 10:09:43 +0800</pubDate>
+      
+      <guid>https://affinity-photo.xn--cks.net/architectural-image-inpainting-1/</guid>
+      <description>&lt;p&gt;建築物の写真をレタッチします。
+天井の照明器具や、外壁の目立つ汚れなどを消去し、Inpainting機能を利用して周辺画像に自然な感じでなじむように、消去した部分の画像を修復していきます。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/UtdKdsgKgh1sGTMxS_Mq83od5PqajZPKHCIXpa71ggU2B-4C_Q=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;ビデオは0:30から、ご覧ください。&lt;/p&gt;
+
+&lt;iframe allowfullscreen frameborder=&#39;0&#39; height=&#39;376&#39; id=&#39;vimeoplayer&#39; mozallowfullscreen webkitallowfullscreen width=&#39;100%&#39;&gt;&lt;/iframe&gt;
+
+
+
+&lt;script&gt;
+  (function() {
+    &#39;use strict&#39;;
+    var $iframes, $target;
+  
+    $iframes = document.querySelectorAll(&#39;iframe&#39;);
+  
+    $target = $iframes[$iframes.length - 1];
+  
+    $target.setAttribute(&#39;height&#39;, $target.clientWidth * 376 / 670);
+  
+    setTimeout(function() {
+      $target.setAttribute(&#39;src&#39;, &#39;//player.vimeo.com/video/143014223?title=0&amp;byline=0&amp;portrait=0&amp;api=1&amp;player_id=vimeoplayer#t=30s&#39;);
+  
+      
+
+
+      _loadScript(&#39;vimeo_js&#39;, &#39;//f.vimeocdn.com/js/froogaloop2.min.js&#39;);
+      document.getElementById(&#39;vimeo_js&#39;).onload = function() {
+        var $player;
+        $player = $f(document.getElementById(&#39;vimeoplayer&#39;));
+        $player.addEvent(&#39;ready&#39;, function() {
+          $player.api(&#39;pause&#39;);
+        });
+      };
+  
+      
+
+
+    }, 5000);
+  
+    return;
+  
+  }).call(this);
+&lt;/script&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/143014223&#34;&gt;https://vimeo.com/143014223&lt;/a&gt;&lt;br /&gt;
+Start to Finish - Vector Architecture&lt;br /&gt;
+Watch a start to finish video where we add vector-based retouching to an architectural photograph.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+!!!
+%html/
+%head
+%body/
+
+:coffee
+  $window = window
+  $window._loadScript = ((d, id, src, async) ->
+    if d.getElementById(id) isnt null
+      return
+    e = d.createElement('script')
+    e.id = id
+    e.src = src
+    if async
+      e.async = true
+    (d.getElementsByTagName('head')[0] or d.getElementsByTagName('body')[0]).appendChild(e)
+    return e
+  ).bind(null, document)
+  protocol = $window.location.protocol
+  $window._loadAdMax = ((d, id) ->
+    i = d.getElementById(id)
+    if i is null
+      console.warning 'NotFound: ' + id
+      return
+    i.srcdoc = '<bo'+'dy style="margin:0;width:'+i.width+'px;height:'+i.height+'px"><scr'+'ipt src="'+protocol+'//adm.shinobi.jp/s/'+id+'"></scr'+'ipt></bo'+'dy>'
+    return
+  ).bind(null, document)
+  return
+
+-# nend: Affinity Photoで行こう！【affinity-photo.堂.net】
+:javascript
+  var nend_params = {"media":30787,"site":176516,"spot":487265,"type":1,"oriented":1};
+:coffee
+  nend_user_agent = navigator.userAgent
+  nendNg = !navigator.cookieEnabled || ( - 1 == nend_user_agent.search(/AppleWebKit/)||-1 == nend_user_agent.search(/Android/)&&-1 == nend_user_agent.search(/iPhone/)&&-1 == nend_user_agent.search(/iPod/)&&-1 == nend_user_agent.search(/iPad/)&&-1 == nend_user_agent.search(/Tizen/)) && 1 != nend_params.debug || false
+  if nendNg
+    window.nend_params = null
+    _loadAdMax('c8da3b31ec58513cbf222e07f051ef5c')
+  else
+    _loadScript('_nend', '//js1.nend.net/js/nendAdLoader.js', false)
+  return

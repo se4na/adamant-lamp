@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>モーションぼかし on Affinity Photoで行こう！</title>
+    <link>https://affinity-photo.xn--cks.net/tags/%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%BC%E3%81%8B%E3%81%97/</link>
+    <description>Recent content in モーションぼかし on Affinity Photoで行こう！</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>&amp;copy;2015 affinity-photo.堂.net</copyright>
+    <lastBuildDate>Fri, 11 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://affinity-photo.xn--cks.net/tags/%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%BC%E3%81%8B%E3%81%97/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    
+    <item>
+      <title>Affinity Photoデモ-人物消去</title>
+      <link>https://affinity-photo.xn--cks.net/inpainting-1/</link>
+      <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://affinity-photo.xn--cks.net/inpainting-1/</guid>
+      <description>&lt;p&gt;ブランコで遊ぶ子供たちの写真をレタッチします。
+より印象的になるように中心にしたい人物にフォーカスするように修正を加えます。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/5OJ5qH8e9cFCJlBp6PGBpfdzo9la4z4yJoNgStTC_Jx4PatzEnOni4yh9IQuq-hpdDlx4j2RqKBe=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;こちらが今回の題材となる写真です。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/QCxn7A6ojATn6dINPJ5f7tKLZvfKBMenO2eryQ_A9STK18tRv6ANF_79f5V5-1MZYmtdG9uBq-A=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;子供2人がブランコで遊んでいる様子です。
+女の子の方はかなり高いポジションまで、揺れていますね。
+ひっくり返らないか、ハラハラしてしまいます。
+今回は、この女の子にフォーカスしてみましょう。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/YFzZxv-zLkzKVTaaY2N6jRwuGwn7lA-Qeo3lhj9lI-W43wBvzU2lT2zWbqptlYEn5ZCMKokBx4I=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;オレンジ色のちょっと目立つ色合いの服をきている男の子。
+ちょっと申し訳ない気もしますが、今回はこの男の子の映り込みを「インペインティングブラシツール」で修正します。
+あまり大きくハミ出さないように、男の子の部分を選択していきます。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/YWXyxmXOqrGDqPEFxiQ1pjmDy0pRS1kZCj09Jph2g8gvTfDCxBfgq-FLddeRq1k2mLonzKCacVY=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;はい、おおよそ消去することができました。
+細かい部分は、さらに「インペインティングブラシツール」で修正します。
+背景に違和感が残る場合は、「傷除去ツール」で似たような背景色を貼り付けます。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/P1ura0NcCuSMqA5ntS7ICLB7XsLwEyLSNmyBODjnoURvopTdDCU3Pgd86enuTs6WyN0U0xxzSFE=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;男の子が乗っていたブランコにつながるクサリも同様に修正します。
+全体的にキレイに修正することができました。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/xfXONXWr6aC_-iEgLYDolquK-cyIO6pp4-IBQ0LmlSXBnQiQuODj2uDwymTAtfFEZPCPEggM6cU=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;さらに、背景に写り込んでいる建物の一部を消去しました。
+仕上げに、背景に「モーションぼかし」フィルタをかけてみました。
+躍動感が増したと思います。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/lorenkerns/8645901176/&#34;&gt;Photo&lt;/a&gt; by Loren Kerns / &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/&#34;&gt;CC BY&lt;/a&gt; / Modified&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

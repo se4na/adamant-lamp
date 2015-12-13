@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>パースペクティブ on Affinity Photoで行こう！</title>
+    <link>https://affinity-photo.xn--cks.net/tags/%E3%83%91%E3%83%BC%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96/</link>
+    <description>Recent content in パースペクティブ on Affinity Photoで行こう！</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>&amp;copy;2015 affinity-photo.堂.net</copyright>
+    <lastBuildDate>Sat, 12 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://affinity-photo.xn--cks.net/tags/%E3%83%91%E3%83%BC%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    
+    <item>
+      <title>Affinity Photoデモ-店舗ロゴ</title>
+      <link>https://affinity-photo.xn--cks.net/la-derniere-piece/</link>
+      <pubDate>Sat, 12 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://affinity-photo.xn--cks.net/la-derniere-piece/</guid>
+      <description>&lt;p&gt;店舗のロゴを撮影した写真のパースを整え、ロゴオブジェクトと壁の色彩と露光を調整します。&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/M7QzyHuhI5WTx9N4mp6hgjPCVp2Hvj7X-UP1hOmBS9YdXS95WYhrxi6PwSA9y-wTf_jTqDsqq4Vi=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;こちらが今回の題材となる写真です。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/b_JT7C2IV6NXIBSA_fyaMBy3m8kE4elcxRX8sS197iEBhBi5vC0zXqJzyFPEez2zfgZvz-LCw9FP=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+トタン素材に反射する光でロゴの輪郭がわかりにくくなっています。
+斜め下から撮影していることによる歪みも修正していきます。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/7CN2tM9FzNh4vKtSlZCxBdvDkA2pYNoSD0DgxSDFKbWeYkRMObWsSFgaNyS7jSNG8dRJNT_vfw-2=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+まず「グリッドを表示」して、ベースとなる水平線と垂直線を確認できるようにします。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/n2nTgMPGLGK5qHTeQUjYeyAE4gGBxVFvm6X-q3PdToiZMHt-B3SCBgAGQUElqr17cMschrvRpOiv=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+「パースペクティブツール」を選択して、画像の四角をつまんで移動させます。トタン素材の垂直をグリッド線の垂直線に合わせます。トタン素材を打ち付けているビョウの水平とロゴタイプの水平をグリッド線の水平線にそれぞれ合わせます。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/vtNb-8kRKj1Ai1zOPTscBd0JH8g8GdEfZPwsW-bGhMPs9iiogUBWOPs8fIyA1h9ILZa-ayol7URj=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+「インペインティングブラシツール」でトタン素材を打ち付けているビョウを除去します。
+トタン素材の汚れも除去していきます。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/owPRgFTndU-JxYAgKUA0ghsZNzOm357oKbcOD3EJWJ9QULtKXinRXbN_Wzj2l0ecKLJ5LSmRO_iZ=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+パースを調整したことにより、右上部分が欠損した状態になりますので、この部分を埋める修正を加えます。
+「傷除去ツール」を選択し、ブラシのサイズを大きめの320pxに設定します。
+空白の部分をブラシでクリックしてから真下へドラッグしてゆき、違和感のない位置までブラシを移動します。
+写真右上の欠損部分が埋まるまで、これを数回繰り返します。
+修正部分と元の写真の継ぎ目が目立ちますので、「インペインティングブラシツール」でなぞり、目立つ継ぎ目を修正します。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/ldae2ql0-Ls6HiNdzYh4Le_41js3UtJMhhc1mBdJPz6-ALXSyZg6FEGRLAgnPmCa8HC0LheR9ay8=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+「選択ブラシツール」でロゴタイプを選択します。
+ブラシのサイズを小さめに設定して、ロゴタイプをなぞります。
+選択範囲が広すぎたら、モードの「除外」を選択し、選択範囲から除期待部分を選択します。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/o0OaBlRsvK6jzxISvpJAHwYxs33kFZnPEiOJDydsC0lJ-qcGi496JzNMlzV1cMVPusgZad0IVdAe=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+ロゴタイプ部分をすべて選択したら、新しい「ピクセルレイヤ」を追加し、コピーペーストします。
+追加する新しい「ピクセルレイヤ」は、元の写真レイヤの上になるように配置します。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/vP7OyGcpsjIOZc3aVjUjTcY2KMNNbD1AkEkXMVPUXZM9N87mJnXSNGHvJVWvQFSTDNUu9SL1qxtt=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+一旦、ロゴタイプのレイヤを非表示にします。
+元の写真レイヤを選択し、「調整＞カーブ」を選択します。
+ここでは、トタン素材のコントラストが下がるように調整します。
+カーブ調整のレイヤは、ロゴタイプのレイヤよりも下になるように配置します。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/SqCA8LYjao9x6d30VLLEkmUYYJYY8JhpDIlJ0iRp_xLwiQqpOYcFQnYV0kUUk9AaJMv6HrPAVPdk=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+次に、ロゴタイプのレイヤを表示して選択します。
+ロゴタイプのレイヤを選択し、「調整＞カーブ」を選択します。
+ロゴタイプの色彩が鮮やかになるように調整します。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/kQgtk1-ijHr2GtgebzRZphwKcokEfPCxxh1WQdzqX88_qHTv_g4756e5FEaB1K8Q2a5qVYEvfOGf=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+「ペルソナをエクスポート」を選択します。
+「スライスツール」を選択し、ロゴタイプを囲みます。
+ロゴタイプが矩型内に納まるように調整します。&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://lh3.googleusercontent.com/2yEIwtPsJhisuFGAHoLxuBb3_SXG0E5x9UopP17upOc0PvS7-m2L3r6CkTlL3_uZoRV5tgB2e-ax=w670&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+「エクスポート」をクリックしたら、完成です。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.lucnix.be/v/Corporate/Restaurants/La-derniere-piece/22-La-derniere-+piece.jpg.html&#34;&gt;Photo&lt;/a&gt; by Luc Viatour / &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/2.0/&#34;&gt;CC BY-SA&lt;/a&gt; / Modified&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

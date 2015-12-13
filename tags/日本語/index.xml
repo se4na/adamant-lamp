@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日本語 on Affinity Photoで行こう！</title>
+    <link>https://affinity-photo.xn--cks.net/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
+    <description>Recent content in 日本語 on Affinity Photoで行こう！</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>&amp;copy;2015 affinity-photo.堂.net</copyright>
+    <lastBuildDate>Sun, 29 Nov 2015 23:33:14 +0800</lastBuildDate>
+    <atom:link href="https://affinity-photo.xn--cks.net/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    
+    <item>
+      <title>Affinity Photoで日本語テキストを入力する方法</title>
+      <link>https://affinity-photo.xn--cks.net/typing-in-japanese-on-affinity-photo/</link>
+      <pubDate>Sun, 29 Nov 2015 23:33:14 +0800</pubDate>
+      
+      <guid>https://affinity-photo.xn--cks.net/typing-in-japanese-on-affinity-photo/</guid>
+      <description>&lt;p&gt;Affinity Photoでテキストのオブジェクト作成し、日本語入力の操作をするときには、注意が必要です。
+日本語を入力するときには、日本語の文字セットを含んだフォントを選択した状態になっているか、きちんと確認するようにしましょう。&lt;/p&gt;
+
+&lt;p&gt;入力中も選択されたフォントが日本語をサポートしているか、によって変換中の文字が日本語フォントで表示されるか、に影響します。&lt;/p&gt;
+
+&lt;p&gt;海外製のソフトウェアではよくあることですが、留意しておきましょう。&lt;/p&gt;
+
+&lt;div class=&#39;embed-responsive embed-responsive-16by9&#39;&gt;
+&lt;div class=&#39;embed-responsive-item&#39; id=&#39;player&#39;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;script&gt;
+  (function() {
+    &#39;use strict&#39;;
+    setTimeout(function() {
+      _loadScript(&#39;youtube_js&#39;, &#39;//www.youtube.com/iframe_api&#39;);
+    }, 5000);
+  
+    window.onYouTubeIframeAPIReady = function() {
+      new YT.Player(&#39;player&#39;, {
+        videoId: &#39;JB-MSjFAFbs&#39;,
+        playerVars: {
+          &#39;cc_load_policy&#39;: 1,
+          &#39;rel&#39;: 0,
+          &#39;iv_load_policy&#39;: 3,
+          &#39;showinfo&#39;: 0,
+          &#39;allowfullscreen&#39;: true
+        }
+      });
+    };
+  
+    return;
+  
+  }).call(this);
+&lt;/script&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/JB-MSjFAFbs&#34;&gt;https://youtu.be/JB-MSjFAFbs&lt;/a&gt;&lt;br /&gt;
+Affinity Photo で日本語入力&lt;br /&gt;
+日本語入力で文字化けし、
+驚いてしまう人も多いようなので、
+基本操作をムービーにしました。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
